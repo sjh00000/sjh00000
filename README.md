@@ -1,4 +1,4 @@
-## 抖音项目服务端
+## 抖音项目服务端，升级版微服务见https://github.com/sjh00000/tiktok_pro
 
 
 ### 功能说明
